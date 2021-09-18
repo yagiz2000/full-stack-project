@@ -1,5 +1,5 @@
 # full-stack-project
-Full stack project with vue express and mysql
+Full stack project with vue express and mysql(with pure HTML&CSS)
 
 # Front End 
 For front-end configuration you don't need do something special. Just go to the demo link.
