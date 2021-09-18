@@ -1,9 +1,4 @@
-//Database oluşturmak için yapılması gerekenler
-//Bilgisayarınızda mysql 8.0 command line client'ı açınız
-//Gelen command line'a şifrenizi giriniz(Büyük ihtimalle sizin mysql şifreniz olacak)
-//Daha sonra CREATE DATABASE deneme; komutunu giriniz
 
-//Her şey düzgünce oluşturulduysa back-end dosyasını clonelayıp çalıştırabilirsiniz.
 
 //Buradaki dökümantasyonu okuyarak hallettim
 //https://www.bezkoder.com/deploy-node-js-app-heroku-cleardb-mysql/
